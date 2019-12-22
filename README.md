@@ -1,3 +1,3 @@
-# Dr
-ive-thru-
-My first project Drive Thru Management System
+This is my project and first contibution to github
+I have used visual basic 6.0 for front end
+And MS Access for Datatbase.
